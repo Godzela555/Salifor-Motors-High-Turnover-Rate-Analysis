@@ -107,17 +107,10 @@ This project showcases skills in:
 
 ## Repository Contents
 
-*   `[Project Notebook Name(s)].ipynb`:  Jupyter Notebook(s) containing the complete end-to-end analysis, including EDA, modeling, and insight generation.
-*   `data/`: Directory containing the dataset used for analysis (e.g., `employee_turnover.csv`).
-*   `[Presentation File (Optional) e.g., Salifort_Motors_Turnover_Analysis.pdf]`: (Optional) Presentation slides summarizing key findings and recommendations.
+*   `executive_summary.pdf`: Executive Summary document providing a concise overview of the project's findings and recommendations.
+*   `salifort-motors-suggestions.ipynb`:  Jupyter Notebook(s) containing the complete end-to-end analysis, including EDA, modeling, and insight generation.
+*   `Presentation File , Salifort_Motors_Turnover_Analysis.pdf`: Presentation slides summarizing key findings and recommendations.
 *   `README.md`:  This file, providing an overview of the project.
-
-## How to Run the Project
-
-1.  Clone this repository to your local machine.
-2.  Ensure you have Python 3.x installed along with the necessary libraries (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost). You can install them using `pip install -r requirements.txt` (if you include a `requirements.txt` file listing dependencies).
-3.  Open and run the Jupyter Notebook(s) (`[Project Notebook Name(s)].ipynb`) to reproduce the analysis.
-4.  The dataset (`employee_turnover.csv`) is included in the `data/` directory.
 
 ## Contact
 
