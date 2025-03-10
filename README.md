@@ -111,7 +111,7 @@ This project showcases skills in:
 *   `salifort-motors-suggestions.ipynb`:  Jupyter Notebook(s) containing the complete end-to-end analysis, including EDA, modeling, and insight generation.
 *   `Presentation File , Salifort_Motors_Turnover_Analysis.pdf`: Presentation slides summarizing key findings and recommendations.
 *   `README.md`:  This file, providing an overview of the project.
-
+*    Kaggle - https://www.kaggle.com/code/ratthanagus/salifor-motors-suggestions-for-hr/ if my notebook is not working on GitHub and you don' want to download. Feel free to use this link.
 ## Contact
 
 Ratthana Tongtan - ratthana_tongtan@hotmail.com or https://www.linkedin.com/in/ratthana-t/
